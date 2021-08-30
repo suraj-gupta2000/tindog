@@ -1,1 +1,1 @@
-# tindog2
+# tindog
